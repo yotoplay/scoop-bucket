@@ -1,0 +1,13 @@
+{
+    "version": "1.22.0",
+    "description": "Convert Twine/Twee documents to TweeJSON and YotoJSON",
+    "homepage": "https://github.com/yotoplay/twine-to-yoto",
+    "license": "MIT",
+    "url": "https://github.com/yotoplay/twine-to-yoto/releases/download/v1.22.0/twine2yoto-win.zip",
+    "hash": "d35fe5083622d8980da50ed8ddfcac394b59f63b2953c482a5d5479f2c07b0f2",
+    "bin": "twine2yoto.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/yotoplay/twine-to-yoto/releases/download/v$version/twine2yoto-win.zip"
+    }
+}
